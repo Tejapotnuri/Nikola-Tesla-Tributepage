@@ -1,0 +1,254 @@
+*
+	{
+		margin:0;
+		padding:0;
+	}
+#main-div
+	{
+		margin:auto;
+		box-shadow:0px 0px 10px 5px black;
+		background:black;
+	} 
+header
+	{
+		background-image: url("Thunders.webp");
+		background-repeat: no-repeat;
+		background-size: 100% ;
+	}
+h1
+	{
+		text-align: center;
+		text-shadow: 4px 4px black;
+	}
+h2
+	{
+		text-align:center;
+		font-family:'Bodoni MT Black'; 
+		font-size:30px;
+	}
+hr
+	{
+		width:90%;
+	}
+h3
+	{
+		font-size:25px;
+		color:#ffcc66;
+		font-family:'OLD ENGLISH';
+	}
+.head-title h3
+	{
+		font-size:25px;
+		color:white;
+		font-family: 'Press Start 2P';
+	}
+p
+	{
+		padding-right:6%;
+		font-size:17px;
+	}
+.date
+	{
+		text-align:center; 
+		color:#ffcc66; 
+	}
+hr
+	{
+		padding-left:10px;
+	}
+.date h2
+	{
+		font-size:40px;
+		padding-left:20px;
+	}
+.head-title
+	{
+		text-align:center;
+		height:80px;
+	}
+.inv-title
+	{
+		display:grid;
+		grid-template-rows:auto;
+		margin:auto;
+		color:#ffcc66;
+		font-family: 'Algerian';
+		font-size: 25px;
+		width:98%;
+		background-image: url("W020200831550984929461.gif");
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+	}
+.inv-title:hover
+	{
+        background-image: url("images.jpg");
+		background-image:no-repeat;
+		background-size:100% 100%;
+    }
+.inv-con
+	{
+		display:grid;
+		grid-template-columns:auto auto auto auto;
+		grid-row-gap:2px;
+		margin:auto;
+		padding:10px;
+	}
+.caption
+	{
+		display:grid;
+		grid-template-rows:auto;
+		margin:auto;
+		background:#534666 ;
+		color:#ffcc66;
+		font-family: 'Algerian';
+		font-size: 18px;
+		width:98%;
+		background-image: url('https://english.cas.cn/Special_Reports/Highlights_of_2020_Top_12_Achievements_in_CAS/Second_Comprehensive_Scientific_Expedition_to_Qinghai_Tibet_Plateau/202008/W020200831550984929461.gif');
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+	}
+.life
+	{
+		display:grid;
+		grid-template-rows:auto;
+		grid-gap:1px;
+		margin:auto;
+		padding:10px;
+	}
+.life h3
+	{
+		padding-top:5px;
+	}
+.inventions
+	{
+		height:250px;	
+		background:linear-gradient(to top,#534666 ,#c3cfe2 ,#534666 );
+		padding-left: 10px;
+	}
+.inventions h3
+	{
+		padding-top:8px;
+	}
+ .caption:hover
+	{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxBx_Ef8ZCQxBUuR9eII5Fz9Etjxh7Tkgl1gowOxfuZQbQw3rJQfjBdykIWOUUh71tirs&usqp=CAU");
+		background-image:no-repeat;
+		background-size:100% 100%;
+    }
+.synopsis
+	{
+		text-align:center;
+		background:linear-gradient(to top,#534666 ,#c3cfe2 ,#534666 );
+		height:110px;
+	}
+.synopsis p
+	{
+		padding-left:5%;
+		padding-top:5px;
+	}
+.synopsis h3
+	{
+		padding-right:5px;
+		padding-top:5px;
+	}
+.earlylife
+	{
+		text-align:center;
+		height:160px;
+		background:linear-gradient(to top,#534666 ,#c3cfe2 ,#534666 );
+	}
+.earlylife p
+	{
+		padding-left:5%;
+		padding-top:5px;
+	}
+.fall
+	{
+		text-align:center;
+		background:linear-gradient(to top,#534666 ,#c3cfe2 ,#534666 );
+		height:190px;
+	}
+.fall p
+	{
+		padding-left:5%;
+		padding-top: 5px;
+	}
+.death
+	{
+		text-align:center;
+		background:linear-gradient(to top,#534666 ,#c3cfe2 ,#534666 );
+		height:130px;
+	}
+.death p
+	{
+		padding-left:5%;
+		padding-top:5px;
+	}
+.fame
+	{
+		text-align:center;
+		background:linear-gradient(to top,#534666 , #c3cfe2 ,#534666 );
+		height:440px;
+	}
+.fame p
+	{
+		padding-left:5%;
+		padding-top:5px;
+	}
+.fame h3
+	{
+		font-size:30px;
+	}
+.bolt  
+	{
+		height:90px;
+		width:80px;
+		padding-top:22px;
+	}
+.bulb
+	{
+		height:85px;
+		width:90px;
+		padding-top:20px;
+	}
+.xray
+	{
+		height:80px;
+		width:90px;
+		padding-top:27px;
+	}
+.radio
+	{
+		height:90px;
+		width:90px;
+		padding-top:15px;
+	}
+.remote
+	{
+		height:80px;
+		width:80px;
+		padding-top:25px;
+	}
+.motor
+	{
+		height:100px;
+		width:100px;
+		padding-top: 4px;
+	}
+.coil
+	{
+		height:80px;
+		width:90px;
+		padding-top:22px;
+	}
+.wireless
+	{
+		height:90px;
+		width:80px;
+		padding-top:42px;
+	}
+.inv-img
+	{
+		text-align:center;
+		padding-right:30px;
+	}
