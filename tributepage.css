@@ -77,7 +77,7 @@ p
 	}
 .inv-title:hover
 	{
-        background-image: url("images.jpg");
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxBx_Ef8ZCQxBUuR9eII5Fz9Etjxh7Tkgl1gowOxfuZQbQw3rJQfjBdykIWOUUh71tirs&usqp=CAU");
 		background-image:no-repeat;
 		background-size:100% 100%;
     }
@@ -173,7 +173,7 @@ p
 	{
 		text-align:center;
 		background:linear-gradient(to top,#534666 ,#c3cfe2 ,#534666 );
-		height:130px;
+		height:150px;
 	}
 .death p
 	{
